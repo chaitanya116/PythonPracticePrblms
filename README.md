@@ -50,3 +50,7 @@ l.The calc_winner method also has alogic if ACE is retireved for player or deale
 m. recalc_sum method is for like passing the value again to calc_winner method as if the plauyer or dealer choses hit another random card is selcted and added t the total sum and again it goes to calc_winner logic to identify the winner
 n. Finally the main condition displaying which order the class or mehtods should be called
 
+7. The classes to be executed the same order given above
+
+8. Try,except block are given hence you might not get the same error i have given in description if you remove the try,except from the final 6th class the error pops up
+
